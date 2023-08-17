@@ -1,0 +1,2 @@
+# miningpush-projet
+type investissement
